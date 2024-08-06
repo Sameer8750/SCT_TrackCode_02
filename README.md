@@ -1,7 +1,7 @@
 # SCT_TrackCode_Task1
 
- TITANIC ANALYSIS
-
+@title
+TITANIC ANALYSIS
 
 
 
