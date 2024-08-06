@@ -41,5 +41,11 @@ Passengers with higher ticket classes had better survival chances.
 <br>
 The age group 20-40 had the highest number of passengers.
 
+🛠️ **Setup and Usage**
+<br>
+1. Clone the repository :
+```bash
+    git clone https://github.com/yourusername/Titanic-Dataset-Analysis.git
+```
 
 
