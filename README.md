@@ -14,7 +14,7 @@
 ## 📊 Dataset Overview : 
 The Titanic dataset includes detailed information about passengers aboard the Titanic, including their survival status, personal attributes, and ticket details.
 
-- Key Features of the Dataset:
+**Key Features of the Dataset:**
 - PassengerId: Unique identifier for each passenger.
 - Survived: Survival status (0 = No, 1 = Yes).
 - Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd).
