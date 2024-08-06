@@ -69,7 +69,7 @@ Run the cells step-by-step to perform data cleaning, EDA, feature engineering, a
 <br>
 Explore the visualizations and insights generated throughout the analysis.
 
-## 🤝 Contributing: <br>
+## 🤝 Contributing: 
 Contributions are welcome! Whether you want to enhance the analysis or add new features:
 <br>
 - Open issues to discuss potential changes.
