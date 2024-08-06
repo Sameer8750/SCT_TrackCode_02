@@ -51,6 +51,30 @@ The age group 20-40 had the highest number of passengers.
     git clone https://github.com/yourusername/Titanic-Dataset-Analysis.git
 ```
 **2. Analyze with Python:**
+<br>
 Dive into the Python analysis by opening Titanic_analysis.ipynb.
+
+Dependencies:
+<br>
+To run the Python notebook, install the necessary packages :
+```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn
+```
+
+## Running the Analysis:
+
+Open the Jupyter notebook Titanic_analysis.ipynb.
+<br>
+Run the cells step-by-step to perform data cleaning, EDA, feature engineering, and machine learning modeling.
+<br>
+Explore the visualizations and insights generated throughout the analysis.
+
+## 🤝 Contributing:
+<br>
+Contributions are welcome! Whether you want to enhance the analysis or add new features:
+<br>
+- Open issues to discuss potential changes.
+<br>
+- Submit pull requests to collaborate on improvements.
 
 
