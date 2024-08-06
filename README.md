@@ -33,7 +33,18 @@ To prepare the dataset for analysis, several cleaning and preprocessing steps we
 
 - Handling missing values in the 'Age', 'Cabin', and 'Embarked' columns.
 - Converting categorical variables such as 'Sex' and 'Embarked' into numerical formats.
-- Creating new features such as 'FamilySize' and 'IsAlone'.  
+- Creating new features such as 'FamilySize' and 'IsAlone'.
+
+## 🧪 Exploratory Data Analysis (EDA)
+EDA was conducted to uncover patterns and insights within the dataset:
+
+- Survival Rates: Analyzed overall survival rates and compared them across different passenger classes, genders, and ages.
+- Class Distribution: Examined the distribution of passengers across the three ticket classes.
+- Gender Analysis: Investigated the survival rates among males and females.
+- Age Distribution: Explored the age distribution and its relation to survival.
+- Family Size Impact: Studied the effect of family size on survival rates.
+- Embarkation Points: Analyzed survival rates based on the port of embarkation.
+  
 
 ## 🚀 Key Features 
 <br>  
