@@ -14,8 +14,8 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 <b> 🚀 Key Features </b> 
 <br>  
 
-Python Analysis: Delve into the Python code to discover the transformations and manipulations applied to the Titanic dataset.
-Comprehensive Dataset: Access the complete dataset for your exploration and analysis.
+Python Analysis : Delve into the Python code to discover the transformations and manipulations applied to the Titanic dataset.
+Comprehensive Dataset : Access the complete dataset for your exploration and analysis.
 
 <b> 🧰 Tools Used </b>
 <br>
