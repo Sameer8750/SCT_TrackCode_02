@@ -107,3 +107,5 @@ Contributions are welcome! Whether you want to enhance the analysis or add new f
 Reach out to me:
  - Sameer Shinde
  - Email: sameershinde1621@gmail.com
+
+Explore the Titanic data, analyze trends, and uncover the stories within the dataset! 🌍📊
