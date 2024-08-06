@@ -1,4 +1,4 @@
 # SCT_TrackCode_Task1
 
-![p](https://github.com/user-attachments/assets/ea16a180-e43c-4622-ace4-b76bd34ad4c0)
+![Picture2](https://github.com/user-attachments/assets/fd19a6cc-2d6e-4e7c-bc91-1c179ac54c5f)
 
