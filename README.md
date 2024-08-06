@@ -29,7 +29,7 @@ Matplotlib
 <br>
 Seaborn
 
-<b> 💡 Insights </b>
+**💡 Insights**
 <br>
 The survival rate among passengers was approximately 38%.
 <br>
