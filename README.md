@@ -1,4 +1,4 @@
 # SCT_TrackCode_Task1
 
-![Titanic](https://github.com/user-attachments/assets/92cd01ff-5f73-4888-aa51-1d7fafb5768a)                 Sameer
+![p](https://github.com/user-attachments/assets/ea16a180-e43c-4622-ace4-b76bd34ad4c0)
 
