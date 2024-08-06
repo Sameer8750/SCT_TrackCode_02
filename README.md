@@ -11,6 +11,29 @@
 
 ## Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.  🚢📈
 
+## 📊 Dataset Overview : 
+The Titanic dataset includes detailed information about passengers aboard the Titanic, including their survival status, personal attributes, and ticket details.
+
+- Key Features of the Dataset:
+- PassengerId: Unique identifier for each passenger.
+- Survived: Survival status (0 = No, 1 = Yes).
+- Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd).
+- Name: Passenger's name.
+- Sex: Gender of the passenger.
+- Age: Age of the passenger.
+- SibSp: Number of siblings/spouses aboard.
+- Parch: Number of parents/children aboard.
+- Ticket: Ticket number.
+- Fare: Passenger fare.
+- Cabin: Cabin number.
+- Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
+
+## 🔍 Data Cleaning and Preprocessing
+To prepare the dataset for analysis, several cleaning and preprocessing steps were performed:
+
+- Handling missing values in the 'Age', 'Cabin', and 'Embarked' columns.
+- Converting categorical variables such as 'Sex' and 'Embarked' into numerical formats.
+- Creating new features such as 'FamilySize' and 'IsAlone'.  
 
 ## 🚀 Key Features 
 <br>  
