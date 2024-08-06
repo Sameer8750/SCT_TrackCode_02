@@ -74,7 +74,7 @@ Comprehensive Dataset : Access the complete dataset for your exploration and ana
 **1. Clone the repository :**
 <br>
 ```bash
-    git clone https://github.com/yourusername/Titanic-Dataset-Analysis.git
+    git clone https://github.com/Sameer8750/Titanic-Dataset-Analysis.git
 ```
 **2. Analyze with Python:**
 <br>
