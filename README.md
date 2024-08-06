@@ -50,7 +50,7 @@ The age group 20-40 had the highest number of passengers.
 ```bash
     git clone https://github.com/yourusername/Titanic-Dataset-Analysis.git
 ```
-2. Analyze with Python:
+**2. Analyze with Python:**
 Dive into the Python analysis by opening Titanic_analysis.ipynb.
 
 
