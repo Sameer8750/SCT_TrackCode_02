@@ -11,7 +11,8 @@
 Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
 
 
-🚀 Key Features <br>  
+<b> 🚀 Key Features <b> 
+<br>  
 
 Python Analysis: Delve into the Python code to discover the transformations and manipulations applied to the Titanic dataset.
 Comprehensive Dataset: Access the complete dataset for your exploration and analysis.
