@@ -19,28 +19,20 @@ Python Analysis : Delve into the Python code to discover the transformations and
 Comprehensive Dataset : Access the complete dataset for your exploration and analysis.
 
 ## 🧰 Tools Used 
-<br>
-Python
-<br>
-Pandas
-<br>
-NumPy
-<br>
-Matplotlib
-<br>
-Seaborn
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 ## 💡 Insights
-<br>
-The survival rate among passengers was approximately 38%.
-<br>
-The majority of passengers were in the third class.
-<br>
-Females had a higher survival rate compared to males.
-<br>
-Passengers with higher ticket classes had better survival chances.
-<br>
-The age group 20-40 had the highest number of passengers.
+
+- The survival rate among passengers was approximately 38%.
+- The majority of passengers were in the third class.
+- Females had a higher survival rate compared to males.
+- Passengers with higher ticket classes had better survival chances.
+- The age group 20-40 had the highest number of passengers.
 
 ## 🛠️ Setup and Usage
 <br>
