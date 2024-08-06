@@ -17,7 +17,7 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 Python Analysis: Delve into the Python code to discover the transformations and manipulations applied to the Titanic dataset.
 Comprehensive Dataset: Access the complete dataset for your exploration and analysis.
 
-🧰 Tools Used
+<b> 🧰 Tools Used </b>
 <br>
 Python
 <br>
@@ -29,7 +29,7 @@ Matplotlib
 <br>
 Seaborn
 
-💡 Insights
+<b> 💡 Insights </b>
 <br>
 The survival rate among passengers was approximately 38%.
 <br>
