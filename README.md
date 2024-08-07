@@ -1,4 +1,4 @@
- # SCT_TrackCode_Task
+ # SCT_TrackCode_02
 
 ## TITANIC DATA ANALYSIS
 
@@ -74,7 +74,7 @@ Comprehensive Dataset : Access the complete dataset for your exploration and ana
 **1. Clone the repository :**
 <br>
 ```bash
-    https://github.com/Sameer8750/SCT_TrackCode_Task2.git
+    https://github.com/Sameer8750/SCT_TrackCode_02.git
 ```
 **2. Analyze with Python:**
 <br>
